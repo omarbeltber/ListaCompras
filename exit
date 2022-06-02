@@ -1,0 +1,29 @@
+[33mcommit 8d679cad1d7a536d5485190bc2f629c0e64b9ab6[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: omarbeltber <omarbeltber@gmail.com>
+Date:   Thu Jun 2 15:56:44 2022 -0500
+
+    Agregamos la sumatoria de los productos(contador) por pieza/kg
+
+[33mcommit 2d69e7f1ce63fcb066520ae8bbbab9acc705de9b[m
+Author: omarbeltber <omarbeltber@gmail.com>
+Date:   Thu Jun 2 14:17:18 2022 -0500
+
+    Se agregaron modificaciones
+
+[33mcommit 898bb6b3b101b969e0260a03da515c80d5003f00[m
+Author: omarbeltber <omarbeltber@gmail.com>
+Date:   Wed Jun 1 13:11:02 2022 -0500
+
+    Se agregan los productos a la tabla
+
+[33mcommit 24f7ec886c0316fa1cf2a8ad61f4b75e1b0a343c[m[33m ([m[1;31morigin/template[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: jc <juan.valencia@idr.edu.mx>
+Date:   Wed Jun 1 09:52:06 2022 -0500
+
+    Se inicia el proyecto con plantilla vacía
+
+[33mcommit 6b91003aa66820732c7d07cd998604e3653295e7[m
+Author: Juan Carlos Valencia Lizardi <86799485+jcgeneration@users.noreply.github.com>
+Date:   Wed Jun 1 09:14:53 2022 -0500
+
+    Initial commit
