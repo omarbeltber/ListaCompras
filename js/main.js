@@ -122,19 +122,14 @@ agregar.addEventListener("click", (event) => {
 
     }
 );
-
-
 txtNombre.addEventListener("blur", (event)=>{
     event.target.value = event.target.value.trim();
   }
 );
-
 txtNumber.addEventListener("blur", (event)=>{
     event.target.value = event.target.value.trim();
   }
 );
-
-
 window.addEventListener("load", function(){
  if(localStorage.getItem("contadorProductos")!=null) {
         contador = parseInt(localStorage.getItem("contadorProductos"));
@@ -148,7 +143,6 @@ window.addEventListener("load", function(){
         totalEnProductos = parseInt(localStorage.getItem("productosTotal"));
         document.getElementById("productosTotal").innerHTML=totalEnProductos;
   }//if productosTotal
-
    if(this.localStorage.getItem("elementosTabla")!=null){
      datos= JSON.parse(localStorage.getItem("elementosTabla"));
       datos.foreach(element =>{
@@ -163,6 +157,5 @@ window.addEventListener("load", function(){
 
 }
 );
-
 
 //agregar.onclick =
